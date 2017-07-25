@@ -1,4 +1,8 @@
-#Billboard Hot 100: Predicting Song Popularity
+![](Billboard_Hot_100_logo.jpg)
+
+
+
+# Billboard Hot 100: Predicting Song Popularity
 
 For over 60 years, the Billboard Hot 100 chart has been used as the standard measurement of popular music success. On the week ending November 12, 1955, Billboard published the Top 100 chart for the first time. It combined all aspects of a single's performance (sales, airplay and jukebox activity), based on a point system that typically gave sales (purchases) more weight than radio airplay. The Billboard Hot 100 is still the standard by which a song's popularity is measured today. The Hot 100 is ranked by radio airplay audience impressions as measured by Nielsen BDS, sales data compiled by Nielsen Soundscan (both at retail and digitally) and streaming activity provided by online music sources.
 
