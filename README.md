@@ -12,6 +12,6 @@ With the advent of music streaming services, we now have a lot of data about not
 
 [Capstone Milestone Report: Notebook](https://github.com/james-parks/Project1/blob/master/Capstone%20Milestone%20Report.ipynb)
 
-[Capstone Milestone Report: Final Paper](https://github.com/james-parks/Project1/blob/master/billboard.pdf)
+[Capstone Milestone Report: Final Paper](https://github.com/james-parks/Project1/blob/master/capstone_project_report - billboard.pdf)
 
-[Capstone Milestone Report: Slides](https://github.com/james-parks/Project1/blob/master/billboard.ppt)
+[Capstone Milestone Report: Slides](https://github.com/james-parks/Project1/blob/master/capstone_project_presentation - billboard.ppt)
